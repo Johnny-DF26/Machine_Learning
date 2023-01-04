@@ -1,28 +1,28 @@
 # Machine Learning
 ### Bibliotecas:
-- Pandas
-- Numpy
-- Scikit-learn
+  - Pandas
+  - Numpy
+  - Scikit-learn
 
 
 ### Pré-Processamento:
-- StandardScaler
+  - StandardScaler
 
 
 ### Utilização de algoritmos de classificação:
-- KNN
-- Naive Bayes
-- Regressão Logistica
-- Arvore de Decisão
-- Random_Florest
-- SVM
-- Redes Neurais
+  - KNN
+  - Naive Bayes
+  - Regressão Logistica
+  - Arvore de Decisão
+  - Random_Florest
+  - SVM
+  - Redes Neurais
 
 
 ### Tunning (Hiperparâmetros):
-- GridSearchCV
+  - GridSearchCV
 
 
 ### Validação Cruzada:
-- cross_val_score
-- KFold
+  - cross_val_score
+  - KFold
