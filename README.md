@@ -7,8 +7,20 @@
   - Scikit-learn
   - Seaborn
 
+### Vizualização dos dados:
+
+  - counplot
+  - scatterplot
+  
+### Tratamento de dados:
+  - Encoder
+  - OneHotEncoder
+  - get_dummies
+
+
 ### Pré-Processamento:
   - StandardScaler
+  - MinMaxAbs
 
 
 ### Utilização de algoritmos de classificação:
