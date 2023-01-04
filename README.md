@@ -3,8 +3,9 @@
 ### Bibliotecas:
   - Pandas
   - Numpy
+  - Matplotlib
   - Scikit-learn
-
+  - Seaborn
 
 ### Pré-Processamento:
   - StandardScaler
