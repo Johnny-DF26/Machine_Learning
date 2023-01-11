@@ -1,4 +1,4 @@
-# Machine Learning(Classificação)
+# Machine Learning
 
 ### Bibliotecas:
   - Pandas
